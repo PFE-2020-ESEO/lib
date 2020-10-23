@@ -5,9 +5,7 @@
 //////////////////////////////
 
 const TelegramBot = require('node-telegram-bot-api');
-var weather = require('weather-js');
 var nodemailer = require('nodemailer');
-
 
 ////////////////////////////////////
 //                                //
