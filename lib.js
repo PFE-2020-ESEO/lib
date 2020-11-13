@@ -28,7 +28,7 @@ const telegram = {
 }
 // replace the value below with the Telegram token you receive from @BotFather
 const tokenTelegram = '1444178058:AAG8flYFGoNPACwIMwLrf45J7urud8b0I3k';
-const botTelegram = new TelegramBot(tokenTelegram, {polling: true});
+const botTelegram = new TelegramBot(tokenTelegram);
 
 
 ///////////////////////
